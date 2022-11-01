@@ -7,7 +7,8 @@ I wrote a program that inverts all colors, so white shades become black, and bla
 */
 
 #include <iostream>
-#include <image1.jpg>
+#include "imageio.h"
+
 using namespace std;
 
 int main()
