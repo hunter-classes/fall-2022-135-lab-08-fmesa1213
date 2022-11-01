@@ -96,6 +96,6 @@ box[row][col] = img[row][col];
 }
 }
 
-writeImage(box, h, w);
+writeImage(taskC.pgm, h, w);
 return 0;
 }
