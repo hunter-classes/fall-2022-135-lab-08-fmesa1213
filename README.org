@@ -1,10 +1,10 @@
 * Fall 2022 - Lab 08
 
-* Last name:
+* Last name: Mesa
 
-* First name:
+* First name: Frida
 
-* GitHub username:
+* GitHub username: fmesa1213
 
 * Notes:
 
