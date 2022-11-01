@@ -2,7 +2,7 @@
 Author: Frida Mesa
 Course: CSCI-135
 Instructor: Micheal Zamansky
-Assignment: Lab 8B
+Assignment: Lab 8C
 I wrote a program that draws a white box exactly in the middle of the picture. 
 The dimensions of the box should be 50% by 50% of the original picture’s width and height.
 */
