@@ -10,6 +10,8 @@ I wrote a program that inverts the colors only in the right half of the picture.
 #include <cassert>
 #include <cstdlib>
 #include <fstream>
+#include "imageio.h"
+
 using namespace std;
 
 const int MAX_H = 512;
