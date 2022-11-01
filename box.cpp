@@ -8,6 +8,7 @@ The dimensions of the box should be 50% by 50% of the original picture’s width
 */
 
 #include <iostream>
+#include "imageio.h"
 #include <cassert>
 #include <cstdlib>
 #include <fstream>
