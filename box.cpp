@@ -8,6 +8,9 @@ The dimensions of the box should be 50% by 50% of the original picture’s width
 */
 
 #include <iostream>
+#include <cassert>
+#include <cstdlib>
+#include <fstream>
 using namespace std;
 
 const int MAX_H = 512;
